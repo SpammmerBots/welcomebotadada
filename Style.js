@@ -10,7 +10,7 @@ setTimeout(() => Mahmoud.send(`**#Welcome To __ - Mal Shop__:rose: :heart:**`), 
 });
 
 client.on('guildMemberAdd', member => {
-const Mahmoud= member.guild.channels.get("513381450448371712");
+const Mahmoud= member.guild.channels.get("526429775514959883");
 if(!Mahmoud) return;
 if(Mahmoud) {
 setTimeout(() => Mahmoud.send(`**Welcome To __ # - Malicious™ <#526439848358313985> <#526458663506804745> <#526436602533380096> __:rose: :fire:   **`), 4000)        
